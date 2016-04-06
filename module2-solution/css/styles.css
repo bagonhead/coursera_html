@@ -11,13 +11,13 @@ section {
 }
 
 section span {
-	border-left: 2px solid black;
-	border-bottom: 2px solid black;
+	border-left: 1px solid black;
+	border-bottom: 1px solid black;
 	padding: 5px 15px 5px 15px;
 }
 
 section > div {
-	border: 2px solid black;
+	border: 1px solid black;
 	background: lightgray;
 	padding-left: 10px;
 	padding-bottom: 10px;
